@@ -13,7 +13,7 @@ I'm a CSE 4th Year undergrad passionate about the field of Data Science, Data An
 - **Artificial Intelligence** 🤖
 - **Music & AI** 🎶
 
-  ## Streak Stats
+## Streak Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aishee23&theme=dark)
 
