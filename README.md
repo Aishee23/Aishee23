@@ -13,6 +13,10 @@ I'm a CSE 4th Year undergrad passionate about the field of Data Science, Data An
 - **Artificial Intelligence** 🤖
 - **Music & AI** 🎶
 
+  ## Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aishee23&theme=dark)
+
 ## Projects:
 - **[Bengali Song Mood Predictor](https://github.com/Aishee23/Bengali_Song_Mood_Predictor)**: Predicts the mood of Bengali songs using a machine learning model.
 - **[Chrono Tunes](https://github.com/Aishee23/ChronoTunes)**: A hackathon project focused on generating playlists based on user preferences.
