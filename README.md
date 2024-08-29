@@ -1,7 +1,7 @@
 
 # Hi, I'm Aishee Dutta! 👋
 
-![Profile Banner](https://www.canva.com/design/DAGPNUGefgs/PHK8gDySMDhRhGN_0BEJkg/edit?utm_content=DAGPNUGefgs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Profile Banner](https://github.com/Aishee23/Aishee23/blob/main/Aishee%20Dutta%20(1).png)
 
 I'm a CSE 4th Year undergrad passionate about the field of Data Science, Data Analytics and AI  with a strong interest in machine learning and its applications. Currently, I'm working as a summer intern in the data science domain at Celebal Technologies.
 
