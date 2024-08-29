@@ -3,7 +3,7 @@
 
 ![Profile Banner](https://www.canva.com/design/DAGPNUGefgs/PHK8gDySMDhRhGN_0BEJkg/edit?utm_content=DAGPNUGefgs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-I'm a CSE undergram passionate about the field of Data Science, Data Analytics and AI  with a strong interest in machine learning and its applications. Currently, I'm working as a summer intern in the data science domain at Celebal Technologies.
+I'm a CSE 4th Year undergrad passionate about the field of Data Science, Data Analytics and AI  with a strong interest in machine learning and its applications. Currently, I'm working as a summer intern in the data science domain at Celebal Technologies.
 
 ![Aishee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aishee23&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aishee23&layout=compact&theme=radical)
