@@ -19,7 +19,7 @@ I'm a CSE undergram passionate about the field of Data Science, Data Analytics a
 
 ## Get in Touch:
 - **GitHub**: [Aishee23](https://github.com/Aishee23)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/aishee-dutta-864886255/)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/aishee-dutta-864886255/)
 - **Email**: aisheedutta99@gmail.com
 
 
