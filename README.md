@@ -20,6 +20,7 @@ I'm a CSE 4th Year undergrad passionate about the field of Data Science, Data An
 ## Projects:
 - **[Bengali Song Mood Predictor](https://github.com/Aishee23/Bengali_Song_Mood_Predictor)**: Predicts the mood of Bengali songs using a machine learning model.
 - **[Chrono Tunes](https://github.com/Aishee23/ChronoTunes)**: A hackathon project focused on generating playlists based on user preferences.
+- **[Speech Emotion Recognition]([https://github.com/Aishee23/ChronoTunes](https://github.com/Aishee23/CodeClauseInternship_DataSc/blob/main/Speech_Emotion_recog/SpeechEmotionRecognition.ipynb))**: A project work to build a model to recognize emotion from speech using the librosa and sklearn libraries and the RAVDESS dataset
 
 ## Get in Touch:
 - **GitHub**: [Aishee23](https://github.com/Aishee23)
